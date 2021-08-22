@@ -12,7 +12,8 @@ source files, headers, and information.
 
 ## MVS 3.8j
 
-This is a fork of https://github.com/devshane/zork for MVS 3.8j.
+This is a fork of https://github.com/devshane/zork for MVS 3.8j. These instructions are for [MVS/CE](https://github.com/MVS-sysgen/sysgen)
+but should work for TK4- or Jay Moseley sysgen.
 
 ## Prepare for install
 
